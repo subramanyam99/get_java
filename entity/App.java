@@ -2,9 +2,13 @@ package entity;
 
 public class App{
     public static void main(String[] args) {
-        System.out.println("Hello");
-        greeting("Hey Good Morning!");
-        fun("sai");
+
+
+        
+
+        System.out.println("Modified Hello");
+        greeting("Modified Hey Good Evening!");
+fun("sai");
     }
 
     public static void greeting(String s){
