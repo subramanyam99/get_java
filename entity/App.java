@@ -6,7 +6,7 @@ public class App{
 
         
 
-        System.out.println("Modified Hello");
+        System.out.println("Modified vanakkam");
         greeting("Modified Hey Good Evening!");
 fun("sai");
     }
