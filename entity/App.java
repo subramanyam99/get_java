@@ -12,7 +12,7 @@ fun("sai");
     }
 
     public static void greeting(String s){
-        System.out.println(s.toUpperCase());
+        System.out.println(s.toLowerCase());
     }
 
     public static void fun(String a){
