@@ -9,6 +9,8 @@ public class App{
         System.out.println("Modified vanakkam");
         greeting("Modified Hey Good Evening!");
 fun("sai");
+test("tested");
+
     }
 
     public static void greeting(String s){
@@ -17,5 +19,9 @@ fun("sai");
 
     public static void fun(String a){
         System.out.println(a.repeat(2));
+    }
+
+     public static void test(String a){
+        System.out.println(a);
     }
 }
